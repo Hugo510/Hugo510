@@ -2,7 +2,7 @@
 <h2 align="center">Software Engineer Student 🖥️</h2>
 <h4 align="center">I am a Software Development Engineering student with experience in developing programs for local businesses. I have participated in several hackathons, being a finalist in two of them, which has allowed me to specialize in Back-End, Cloud Computing, and Artificial Intelligence. I possess soft skills such as leadership, responsibility, and teamwork.</h4>
 
-- 👾 I have participated in hackathon [WAM](devpost.com/Hugo510)
+- 👾 I have participated in some hackathons [WAM](WAM)
 
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning**
 
