@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hugo Trujillo</h1>
 <h3 align="center">Software Engineer Student 🖥️</h3>
+<h4 I am a Software Development Engineering student with experience in developing programs for local businesses. I have participated
+ in several hackathons, being a finalist in two of them, which has allowed me to specialize in Back-End, Cloud Computing, and
+ Artificial Intelligence. I possess soft skills such as leadership, responsibility, and teamwork. </h4>
 
 - 👾 I have participated in hackathon [WAM](devpost.com/Hugo510)
 
