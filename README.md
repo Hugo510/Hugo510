@@ -16,10 +16,13 @@
 
 - 📄 I’m currently open for a new job opportunity, this is [MY RESUME](devpost.com)
 
+<br>
+<br>
+
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2>
 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,aws,bash,cpp,docker,git,github,heroku,linux,mongodb,mysql,nestjs,npm,rabbitmq,tensorflow,ts,express,firebase&perline=8&theme=light"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,aws,bash,cpp,docker,git,github,heroku,linux,mongodb,mysql,nestjs,npm,rabbitmq,tensorflow,ts,express,firebase,react,pytorch&perline=7&theme=light"  />
 </p>
 
 <h3 align="center">Connect with me:</h3>
