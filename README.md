@@ -25,7 +25,8 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,js,aws,bash,cpp,docker,git,github,heroku,linux,mongodb,mysql,nestjs,npm,rabbitmq,tensorflow,ts,express,firebase,react,pytorch&perline=7&theme=light"  />
 </p>
 
-<h3 align="center">Connect with me:</h3>
+<br>
+<h2 align="center">Connect with me:</h3>
 <p align="center">
 <a href="www.linkedin.com/in/victor-perez-trujillo-937016291" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/victor-perez-trujillo-937016291" height="30" width="40" /></a>
 <a href="https://www.instagram.com/byhugoi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="byhugoi" height="30" width="40" /></a>
