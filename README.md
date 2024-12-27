@@ -12,7 +12,7 @@
 
 - 👩🏻‍💻 I'm studying Software Development **Technological University of Durango**
 
-- 📫 How to reach me **hugoperez510@hotmail.com**
+- 📫 How to reach me **hugo.trujillo24@outlook.com**
 
 - 📄 I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1iGsqtFHr5pSD8RNfgfZg2bo9PcvtHaBd/view?usp=sharing)
 
