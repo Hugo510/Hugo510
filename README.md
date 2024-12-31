@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Machine Learning**
 
-- 👩🏻‍💻📓✍🏻💡 I have been working as a Freelancer [Portfolio](https://devpost.com/Hugo510)
+- 👩🏻‍💻📓✍🏻💡 I have been working as a Freelancer [Portfolio](https://hugotrujillo.software)
 
 - 👩🏻‍💻 I'm studying Software Development **Technological University of Durango**
 
